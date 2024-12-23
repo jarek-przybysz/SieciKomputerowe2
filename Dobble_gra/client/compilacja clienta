@@ -1,0 +1,1 @@
+g++ -o gra_client client.cpp -I./../json/include -lsfml-graphics -lsfml-window -lsfml-system -lpthread

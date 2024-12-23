@@ -1,0 +1,1 @@
+g++ -o server server.cpp -I./../json/include -pthread -std=c++17

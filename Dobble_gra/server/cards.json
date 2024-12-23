@@ -1,0 +1,17 @@
+﻿{
+  "cards": [
+    { "id": 1, "symbols": ["biedronka", "ser", "klodka", "pytajnik", "serce", "stop", "slonce", "sniezynka"] },
+    { "id": 2, "symbols": ["kropla", "drzewo", "pies", "okulary", "marchewka", "sniezynka", "delfin", "stokrotka"] },
+    { "id": 3, "symbols": ["mleko", "swieca", "zarowka", "klon", "olowek", "klodka", "okulary", "duch"] },
+    { "id": 4, "symbols": ["kaktus", "pies", "duch", "lapka", "usta", "ying", "pajak", "ser"] },
+    { "id": 5, "symbols": ["mleko", "smok", "mlotek", "ying", "koniczyna", "stokrotka", "stop", "jablko"] },
+    { "id": 6, "symbols": ["dino", "marchewka", "pajak", "ogien", "klodka", "zebra", "oko", "koniczyna"] },
+    { "id": 7, "symbols": ["zolw", "zebra", "mlotek", "nozyce", "pytajnik", "okulary", "lapka", "auto"] },
+    { "id": 8, "symbols": ["kaktus", "kropla", "klodka", "mlotek", "ksiezyc", "plamy", "ptak", "cel"] },
+    { "id": 9, "symbols": ["piorun", "ser", "stokrotka", "nozyce", "bomba", "swieca", "ptak", "oko"] },
+    { "id": 10, "symbols": ["ser", "okulary", "wiolinowy", "dino", "smok", "ksiezyc", "czaszka", "kot"] },
+    { "id": 11, "symbols": ["kot", "plamy", "serce", "stokrotka", "zegar", "zarowka", "zolw", "pajak"] },
+    { "id": 12, "symbols": ["kotwica", "ying", "kot", "oko", "pytajnik", "olowek", "kropla", "iglo"] },
+    { "id": 13, "symbols": ["jablko", "czlowiek", "ser", "zarowka", "pajac", "kropla", "klucz", "zebra"] }
+  ]
+}

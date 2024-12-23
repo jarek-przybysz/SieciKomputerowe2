@@ -1,0 +1,17 @@
+git clone https://github.com/nlohmann/json.git
+
+
+/twój_projekt
+  |-- cards.json
+  |-- json/  
+      |-- include/
+          |-- nlohmann/
+              |-- json.hpp
+              |-- adl_serializer.hpp
+              |-- ... (inne pliki nagłówkowe)
+  |-- main.cpp  <-- Twój kod źródłowy C++
+
+
+komenda odpalająca 
+
+g++ -o my_program main.cpp -I./json/include

@@ -1,0 +1,5 @@
+sudo zypper refresh
+zypper search sfml
+sudo zypper install sfml2-devel
+
+bash compilacja servera/clienta
